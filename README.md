@@ -1,6 +1,6 @@
 # Little-Taco-Shop
-This is my first html project on github "The Little Taco Shop". Where we have three page, 
-home page, contact page and store house page.
+This is my first HTML project on GitHub "The Little Taco Shop". Where we have three pages, 
+home page, contact page, and storehouse page.
 
 <table>
  <tr>
