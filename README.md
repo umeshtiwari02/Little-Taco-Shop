@@ -9,8 +9,8 @@ home page, contact page, and storehouse page.
      <td>This is Store House page</td>
   </tr>
 <tr>
-<td><img src="Screenshort/home.png" height= 600></td>
-<td><img src="Screenshort/contact.png" height= 600></td>
-<td><img src="Screenshort/storeHouse.png" height=600></td>
+<td><img src="screenshot/home.png" height= 600></td>
+<td><img src="screenshot/contact.png" height= 600></td>
+<td><img src="screenshot/storeHouse.png" height=600></td>
 </tr>
 </table>
